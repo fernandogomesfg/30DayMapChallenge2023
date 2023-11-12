@@ -1,0 +1,28 @@
+Metadata - AFG_ADM1_PopulationComparison
+
+PROV_CODE, PROV_NA_E: obtained from UN OCHA Afghanistan Admin 1 Boundaries
+Available online at https://data.humdata.org/dataset/yemen-admin-boundaries 
+The spatial data characteristics inherit the original source metadata.
+
+ADDITIONAL ATTRIBUTES: 
+
+UNOCHA2015: Obtained from Afghanistan - Estimated Population 2015/2016, OCHA, Available at: https://data.humdata.org/dataset/estimated-population-of-afghanistan-2015-2016in .xls format, to Admin3
+
+UNOCHA2016: Obtained from Afghanistan - Estimated Population 2016/2017, OCHA, Available at: https://data.humdata.org/dataset/afg-est-pop in .xls format, to Admin3
+
+LS2015Pop: Total Population per Admin1 Area, 2015, Summed from LandScan 2015 Gridded Population Dataset, using Population Explorer (populationexplorer.com)
+
+GPW2010: Total Population per Admin1 Area, 2010, Summed from GPW 2010 Gridded Population Dataset, using Zonal statistics tool in ArcGIS, GPW available from: http://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density-adjusted-to-2015-unwpp-country-totals
+
+GPW2015: Total Population per Admin1 Area, 2015, Summed from GPW 2015 Gridded Population Dataset, using Zonal statistics tool in ArcGIS, GPW available from: http://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density-adjusted-to-2015-unwpp-country-totals
+
+GPW2020: Total Population per Admin1 Area, 2020, Summed from GPW 2020 Gridded Population Dataset, using Zonal statistics tool in ArcGIS, GPW available from: http://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density-adjusted-to-2015-unwpp-country-totals
+
+WP2010: Total Population per Admin1 Area, 2010, Summed from WorldPop 2010 Gridded Population Dataset, using Zonal statistics tool in ArcGIS, WorldPop available from: http://www.worldpop.org.uk/data/data_sources/
+
+WP2015: Total Population per Admin1 Area, 2015, Summed from WorldPop 2015 Gridded Population Dataset, using Zonal statistics tool in ArcGIS, WorldPop available from: http://www.worldpop.org.uk/data/data_sources/
+
+WP2020: Total Population per Admin1 Area, 2020, Summed from WorldPop 2020 Gridded Population Dataset, using Zonal statistics tool in ArcGIS, WorldPop available from: http://www.worldpop.org.uk/data/data_sources/
+
+CLOSEST ESTIMATE: WP, GWP, LS value that is closest to UN OCHA 2016 Estimate
+
