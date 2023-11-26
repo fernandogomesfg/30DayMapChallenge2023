@@ -53,7 +53,7 @@ Bem-vindo ao meu repositório do 30DayMapChallenge, onde compartilho minhas expl
 - **Fonte de Dados:** N/A
 - **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-gis-leafletjs-activity-7129392407380418563-Q3-p?utm_source=share&utm_medium=member_desktop)
 
-## Dia 7: Africa  🌏
+## Dia 8: Africa  🌏
 ![Africa](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/f938d83c-f546-447b-a9a2-cfe1f1da0b1c)
 - **Descrição:**  mapa que destaca a diversidade econômica em diferentes regiões do Norte da África. 💸✨
 - **Tecnologias Utilizadas:** QGIS
