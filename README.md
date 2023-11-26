@@ -41,16 +41,22 @@ Bem-vindo ao meu repositório do 30DayMapChallenge, onde compartilho minhas expl
 
 ## Dia 6: Ásia 🌏
 ![cats (2)](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/a1c1659a-a8dc-404e-bc66-c40251d36ef7)
-- **Descrição no LinkedIn:** 🚀 Explorando o crescimento demográfico na Ásia.
+- **Descrição:** 🚀 Explorando o crescimento demográfico na Ásia.
 - **Tecnologias Utilizadas:**  QGIS e plugin Felt (para publicar o mapa na web).
 - **Fonte de Dados:** [Humanitarian Data Exchange](https://data.humdata.org/)
 - **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-gis-map-activity-7129176493586296832-QsBZ?utm_source=share&utm_medium=member_desktop)
 
 ## Dia 7: Navigation  🌏
 ![cats (3)](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/f93f696c-e716-425b-8cb6-b78aca843d54)
-- **Descrição no LinkedIn:** Routing App - um aplicativo de rotas que integra o poder do LeafletJs e um plugin de distância mais curta (Algoritmo de Dijkstra), garantindo que alcance seu destino da forma mais rápida! 🗺️✨
+- **Descrição:** Routing App - um aplicativo de rotas que integra o poder do LeafletJs e um plugin de distância mais curta (Algoritmo de Dijkstra), garantindo que alcance seu destino da forma mais rápida! 🗺️✨
 - **Tecnologias Utilizadas:**  HTML, CSS e JavaScript (LeafletJs)
 - **Fonte de Dados:** N/A
 - **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-gis-leafletjs-activity-7129392407380418563-Q3-p?utm_source=share&utm_medium=member_desktop)
 
+## Dia 7: Africa  🌏
+![Africa](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/f938d83c-f546-447b-a9a2-cfe1f1da0b1c)
+- **Descrição:**  mapa que destaca a diversidade econômica em diferentes regiões do Norte da África. 💸✨
+- **Tecnologias Utilizadas:** QGIS
+- **Fonte de Dados:** [Natural Earth](https://www.naturalearthdata.com/)
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-africa-gis-activity-7129852916231761920-68Ny?utm_source=share&utm_medium=member_desktop)
 
