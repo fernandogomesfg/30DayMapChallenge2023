@@ -61,7 +61,7 @@ Bem-vindo ao meu repositório do 30DayMapChallenge, onde compartilho minhas expl
 - **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-africa-gis-activity-7129852916231761920-68Ny?utm_source=share&utm_medium=member_desktop)
 
 ## Dia 8: Hexagon  🌏
-
+![Hexagon](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/c3584716-620a-4788-a3f5-5e0743d40c82)
 - **Descrição:**  O mundo dos hexágonos para trazer uma visão da precipitação em Moçambique durante o último trimestre de 2020! 🗺️✨
 - **Tecnologias Utilizadas:** QGIS
 - **Fonte de Dados:** [AccuWeather](https://www.accuweather.com/)
