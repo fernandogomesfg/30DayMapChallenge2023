@@ -1,5 +1,4 @@
 
-https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/26b24e5b-8813-4de2-a29a-50672f7ad708
 Bem-vindo ao meu repositório do 30DayMapChallenge, onde compartilho minhas explorações cartográficas diárias.
 
 ## Dia 1: Points 📍
