@@ -60,11 +60,78 @@ Bem-vindo ao meu repositório do 30DayMapChallenge, onde compartilho minhas expl
 - **Fonte de Dados:** [Natural Earth](https://www.naturalearthdata.com/)
 - **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-africa-gis-activity-7129852916231761920-68Ny?utm_source=share&utm_medium=member_desktop)
 
-## Dia 8: Hexagon  🌏
+## Dia 9: Hexagon  🌏
 ![Hexagon](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/c3584716-620a-4788-a3f5-5e0743d40c82)
 - **Descrição:**  O mundo dos hexágonos para trazer uma visão da precipitação em Moçambique durante o último trimestre de 2020! 🗺️✨
 - **Tecnologias Utilizadas:** QGIS
 - **Fonte de Dados:** [AccuWeather](https://www.accuweather.com/)
 - **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-gis-qgis-activity-7130471994151604224-bDBq?utm_source=share&utm_medium=member_desktop)
+
+## Dia 10: North America  🌏
+![North America](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/bff47f1b-d947-4b91-bc51-c04fb30f132b)
+- **Descrição:**  O Triângulo das Bermudas, conhecido por desaparecimentos inexplicáveis, tem cativado a imaginação por décadas. Entre lendas e factos, a área delimitada por Miami, Bermudas e San Juan é palco de numerosas histórias intrigantes. 🚢🕵️‍♂
+- **Tecnologias Utilizadas:** QGIS
+- **Fonte de Dados:** N/A
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-gis-qgis-activity-7130826927354834944-ByZ0?utm_source=share&utm_medium=member_desktop)
+
+## Dia 11: Retro  🌏
+![Retro](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/e05554d5-1f56-4b56-bef5-f6cc363e1159)
+- **Descrição:**  Viajando de volta no tempo! 🕰️ Explorei as raízes históricas do continente africano em 1783. 🗺️ Utilizando dados disponíveis no ThinkQuest Archive, recriei um mapa retrô que nos transporta para uma era passada e nos permite vislumbrar as fronteiras e geografia da África do século XVIII. 🌍🔍
+- **Tecnologias Utilizadas:** QGIS
+- **Fonte de Dados:** [Clique aqui](http://web.archive.org/web/20080328104539/http://library.thinkquest.org:80/C006628/download.html)
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_retro-africa-30daymapchallenge-activity-7131189258656047105-hUUy?utm_source=share&utm_medium=member_desktop)
+
+## Dia 12: South America  🌏
+![South America](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/d0b6029f-b398-45db-8c85-be5f8aedf2e4)
+- **Descrição:**  No 6º Intensivão QGIS da Ambientis Engenharia & Consultoria Ambiental, em 2022, criamos juntos um mapa incrível.
+- **Tecnologias Utilizadas:** QGIS
+- **Fonte de Dados:** N/A
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-gis-qgis-activity-7132393058989428736-Iis6?utm_source=share&utm_medium=member_desktop)
+
+## Dia 13: Choropleth 🌏
+![Choropleth](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/6f526545-0cc6-4938-a483-45f5fa18ea4d)
+- **Descrição:** um mapa que vai além das fronteiras geográficas para abordar uma questão crucial: a violência doméstica. 🌍💔
+- **Tecnologias Utilizadas:** QGIS
+- **Fonte de Dados:** [Clique aqui](https://data.humdata.org/dataset/brazil-domestic-violence-in-belo-horizonte)
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-choropleth-gis-activity-7132789558907133952-ILDe?utm_source=share&utm_medium=member_desktop)
+
+## Dia 14: Europe 🌏
+![Europe](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/788ae438-11cf-47c5-9d95-eb3752421d59)
+- **Descrição:** A rica herança cultural da Europa com um mapa especial no Streamlit! 🏰🗺️ Destaquei três pontos icônicos do Vaticano.
+- **Tecnologias Utilizadas:** Python e Streamlit
+- **Fonte de Dados:** N/A
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-streamlit-python-activity-7133191111203778561-gRX5?utm_source=share&utm_medium=member_desktop)
+
+## Dia 15: OpenStreetMap 🌐
+![OpenStreetMap](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/8d8434f8-7ffc-4677-83d7-7d8e82c7be78)
+- **Descrição:** Explorei os detalhes do OpenStreetMap, dando vida a essa representação do Campus Principal da Universidade Eduardo Mondlane!
+- **Tecnologias Utilizadas:** Python, OpenStreetMap e PrettyMaps  
+- **Fonte de Dados:** N/A
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-python-openstreetmap-activity-7133424981316661248-jfIa?utm_source=share&utm_medium=member_desktop)
+
+## Dia 16: Oceania 🌐
+![Oceania](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/bca5b603-4752-4482-8429-c7e8cbc0b9db)
+- **Descrição:** Cada traço, inspirado por um prompt específico, dá vida a uma representação única e criativa da diversidade e beleza da Oceânia. Uma perspectiva criativa e fora do comum para explorar as maravilhas deste continente. 🌏✨🚀
+- **Tecnologias Utilizadas:** Canva
+- **Fonte de Dados:** N/A
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-canva-gis-activity-7133726006921555968-VqLF?utm_source=share&utm_medium=member_desktop)
+
+## Dia 17: Flow 🌐
+![Flow](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/68717e2c-0ccc-4516-a3bf-4f64b166e669)
+- **Descrição:** As trilhas de movimento global, explorando um mapa detalhado que captura o pulsar das viagens internacionais de Moçambique em 2022. 🛫🌍
+- **Tecnologias Utilizadas:** QGIS
+- **Fonte de Dados:** N/A
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-canva-gis-activity-7133726006921555968-VqLF?utm_source=share&utm_medium=member_desktop)
+
+## Dia 18: Atmosphere 🌐
+![Atmosphere](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/c8892eae-d8d0-4f57-8d04-4c546783bd29)
+- **Descrição:**  O resultado de um trabalho semestral incrível realizado em parceria com meu colega e amigo [Samuel Ouana](https://github.com/SamuelOuana). 🌧️🌍
+- **Tecnologias Utilizadas:** Excel e QGIS
+- **Fonte de Dados:** [AccuWeather](https://www.accuweather.com/)
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-gis-qgis-activity-7134552725727387648-MPUa?utm_source=share&utm_medium=member_desktop)
+
+
+
+
 
 
