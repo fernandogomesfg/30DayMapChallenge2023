@@ -1,0 +1,27 @@
+[general] 
+creator=R package 'raster' 
+created= 2011-11-12 14:30:55 
+[georeference] 
+nrows= 1992 
+ncols= 1296 
+xmin= 30.1 
+ymin= -27 
+xmax= 40.9 
+ymax= -10.4 
+projection= +proj=longlat +ellps=WGS84 
+[data] 
+datatype= INT2S 
+byteorder= little 
+nbands= 1 
+bandorder= BIL 
+categorical= FALSE 
+minvalue= -10 
+maxvalue= 2748 
+nodatavalue= -9999 
+[legend] 
+legendtype=  
+values=  
+color=  
+[description] 
+layername= MOZ_alt 
+history=  
