@@ -1,5 +1,7 @@
 
-Bem-vindo ao meu repositório do 30DayMapChallenge, onde compartilho minhas explorações cartográficas diárias.
+Bem-vindo ao meu repositório do 30DayMapChallenge, onde compartilho minhas explorações c!
+artográficas diárias.
+![30dmc-2023](https://github.com/fernandogomesfg/30DayMapChallenge2023/assets/59961857/3967994b-4625-4dc7-8f48-a33b45786662)
 
 ## Dia 1: Points 📍
 ![cats](https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/9f341c15-18a5-4093-8bb0-72aa26e5c16a)
