@@ -138,6 +138,73 @@ https://github.com/fernandogomesfg/30DayMapChallenge/assets/59961857/baa5c7b6-a5
 - **Fonte de Dados:** N/A
 - **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-gis-python-activity-7134965330442899457-FC6T?utm_source=share&utm_medium=member_desktop)
 
+## Dia 20: Outdoors🌐
+![Outdoors](https://github.com/fernandogomesfg/30DayMapChallenge2023/assets/59961857/c2b3ad77-ee05-4a42-a188-0d2834b3ad1c)
+- **Descrição:** Mapeei minha caminhada pelos outdoors da cidade de Maputo durante o mês de outubro de 2022,
+- **Tecnologias Utilizadas:** QGIS
+- **Fonte de Dados:** Geolocalização do Google
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-qgis-gis-activity-7135515230117249026-0sw6?utm_source=share&utm_medium=member_desktop)
 
+## Dia 21: Raster🌐
+![Raster](https://github.com/fernandogomesfg/30DayMapChallenge2023/assets/59961857/eaa7e3e4-0e23-417d-8855-651981a1fc91)
+- **Descrição:** Eu e [Antonio Macaringue](https://github.com/Makas-M) utilizamos as fronteiras administrativas de Moçambique e o perigo de ciclones como polígonos, enquanto a contagem da população para 2020 foi representada como um raster.
+- **Tecnologias Utilizadas:** QGIS e Felt plugin
+- **Fonte de Dados:** [The Humanitarian Data Exchange](https://data.humdata.org/dataset/wfp-geonode-ica-mozambique-cyclone-hazard)
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-felt-gis-activity-7135943043706155008-EBz8?utm_source=share&utm_medium=member_desktop)
 
+## Dia 22: North is not Always Up🌐
+![North is not Always Up](https://github.com/fernandogomesfg/30DayMapChallenge2023/assets/59961857/885c6691-03d9-42f2-a795-c0dba3c29647)
+- **Descrição:** Mapa celestial fora do comum, desafiando a orientação convencional! Utilizando a incrível IA do Canva e utilizando o prompt “Mapeie o sistema solar, destacando a posição e a órbita dos planetas e outros corpos celestes, com uma orientação não convencional”. 🌍🌠
+- **Tecnologias Utilizadas:** Canva
+- **Fonte de Dados:** N/A
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-gis-canva-activity-7136270200588365827-hRGO?utm_source=share&utm_medium=member_desktop)
 
+## Dia 23: 3D🌐
+![3D](https://github.com/fernandogomesfg/30DayMapChallenge2023/assets/59961857/c77402cb-ddf8-4e5a-a782-41fde30553f8)
+- **Descrição:** Uma visualização tridimensional, criada com a poderosa ferramenta “3D Map Views” do QGIS. Baixei dados do Modelo Digital de Superfície (MDS) directamente da plataforma Geosampa, acessando o Mapa Digital da Cidade São Paulo (concretamente em Mooca)
+- **Tecnologias Utilizadas:** QGIS
+- **Fonte de Dados:** [Geosampa](https://geosampa.prefeitura.sp.gov.br/PaginasPublicas/)
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-gis-qgis-activity-7136557090197643264-Ezcb?utm_source=share&utm_medium=member_desktop)
+
+## Dia 24: Black & White🌐
+![Black   White](https://github.com/fernandogomesfg/30DayMapChallenge2023/assets/59961857/b934dc31-fa39-484f-8ac0-0fc9fc046974)
+- **Descrição:** Explorei as profundezas da análise espacial em estudos epidemiológicos. Meu foco foi a cidade de Soho, Londres, em 1854, um marco crucial na história da saúde pública.
+- **Tecnologias Utilizadas:** QGIS
+- **Fonte de Dados:** [Robin's Blog](https://blog.rtwilson.com/john-snows-cholera-data-in-more-formats/)
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-gis-qgis-activity-7137022858337112065-iFlL?utm_source=share&utm_medium=member_desktop)
+
+## Dia 25: Antarctica🌐
+![Antarctica](https://github.com/fernandogomesfg/30DayMapChallenge2023/assets/59961857/f6dd7109-9f40-458c-bc97-3225d1c0e5f3)
+- **Descrição:** Aventurei nas vastas extensões geladas do Continente Branco, a Antártida, por meio de um globo que destaca a parte mais ao sul da Terra. 🌐🗺️ 
+- **Tecnologias Utilizadas:** QGIS
+- **Fonte de Dados:** N/A
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-gis-antarctica-activity-7137526941758164992-Fc6d?utm_source=share&utm_medium=member_desktop)
+
+## Dia 26: Minimal 🌐
+![Minimal](https://github.com/fernandogomesfg/30DayMapChallenge2023/assets/59961857/795a4536-d353-407c-9c69-58b78fe23e01)
+- **Descrição:**  A rede viária de Minsk, capital da Bielorrússia, criado a partir de dados do OpenStreetMap.
+- **Tecnologias Utilizadas:** QGIS
+- **Fonte de Dados:** [OpenStreetMap](https://www.openstreetmap.org/)
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-gis-qgis-activity-7137850501957648384-zzv-?utm_source=share&utm_medium=member_desktop)
+
+## Dia 27: Minimal 🌐
+![Dot](https://github.com/fernandogomesfg/30DayMapChallenge2023/assets/59961857/09dc378b-9b89-42de-99a8-4cf7b7a958ce)
+- **Descrição:** Projecto desenvolvido em colaboração com meus colegas [Samuel Ouana](https://github.com/SamuelOuana) e Jennifer Bié na disciplina de Geodesia 2: um mapa de unidades sanitárias na cidade e província de Maputo. 🌍
+- **Tecnologias Utilizadas:** HTML, CSS e JavaScript
+- **Fonte de Dados:** N/A
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-gis-javascript-activity-7138131776698232832--XE-?utm_source=share&utm_medium=member_desktop)
+
+## Dia 28 e 29:  “Is this a chart or a map?” e “Population” 🌍📊
+![ “Is this a chart or a map?” e “Population” 🌍📊
+](https://github.com/fernandogomesfg/30DayMapChallenge2023/assets/59961857/131a4a6a-f2a7-4c24-b23b-6483405f716d)
+- **Descrição:** Optei por unir os temas dos dias 28 e 29 em um único mapa que remonta a 2022, um verdadeiro testemunho dos meus primeiros passos na Cartografia Temática. "Distribuição Populacional em Moçambique". 🗺️✨
+- **Tecnologias Utilizadas:** QGIS
+- **Fonte de Dados:** N/A
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-gis-qgis-activity-7138437058628341760-BAls?utm_source=share&utm_medium=member_desktop)
+
+## Dia 30: My favourite❤️
+![My favourite](https://github.com/fernandogomesfg/30DayMapChallenge2023/assets/59961857/cc6e2cd1-626f-4267-8966-e954dcd9524c)
+- **Descrição:** Encerrei o desafio com um mapa especial que vai além da Cartografia tradicional, explorando o lado artístico da criação de mapas. Este mapa é uma celebração de um primeiro encontro, um momento digno de ser eternizado de maneira única. 🎨🗺️
+- **Tecnologias Utilizadas:** QGIS
+- **Fonte de Dados:** N/A
+- **Publicação no LinkedIn:** [Clique aqui](https://www.linkedin.com/posts/fernandogomesfg_30daymapchallenge-qgis-gis-activity-7138799368563761152-E0Hc?utm_source=share&utm_medium=member_desktop)
